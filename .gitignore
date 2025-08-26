@@ -1,1 +1,2 @@
-/Networking/UDP/Node/
+#Ignore adding python virtual environment folder
+.venv
